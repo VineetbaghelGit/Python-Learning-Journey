@@ -85,5 +85,5 @@ print(check_for_line(word))
 with open('practice.txt','r') as f:
     data = f.read()
 
-    tcp gurantee that any of the packet is not going to be lost while transfering (more reliable)
+    # tcp gurantee that any of the packet is not going to be lost while transfering (more reliable)
     
